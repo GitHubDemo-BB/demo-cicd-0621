@@ -2,11 +2,11 @@ function print () {
   return 'Hello World!!'
 }
 
-function echo (value) {
+function log (value) {
   return value
 }
 
 module.exports = {
   print,
-  echo
+  log
 }
