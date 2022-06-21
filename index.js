@@ -1,8 +1,8 @@
-function print() {
+function print () {
   return 'Hello World!!'
 }
 
-function echo(value) {
+function echo (value) {
   return value
 }
 
