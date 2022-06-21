@@ -3,9 +3,10 @@ function print() {
 }
 
 function echo(value) {
-  return value 
+  return value
 }
 
 module.exports = {
-  print
-};
+  print,
+  echo
+}
